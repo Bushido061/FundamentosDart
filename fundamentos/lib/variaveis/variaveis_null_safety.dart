@@ -8,8 +8,8 @@ void main() {
   String nomeCompletoSemAtributos;
   nomeCompletoSemAtributos = "fundamentos  do Dart";
 
-  String nomeCompletoComAtributo = null;
-  nomeCompletoComAtributo = "fundamentos  do Dart";
+  // String nomeCompletoComAtributo = null;
+  // nomeCompletoComAtributo = "fundamentos  do Dart";
 
 //variável nullable
 String? nomeCompletoComAtributosNullAble = null;
