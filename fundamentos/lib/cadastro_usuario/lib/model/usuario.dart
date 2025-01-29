@@ -17,7 +17,7 @@ class Usuario {
   };
 }
 
-factory Usuario.frontMap(Map<String, dynamic>map){
+factory Usuario.fromMap(Map<String, dynamic>map){
 return Usuario(
   id: map['id'],
   nome: map['nome'],
